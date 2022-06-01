@@ -1,6 +1,6 @@
 # AV-GeN: Generalisable Audio Visual Navigation
 
-Repository for "Towards Generalisable Audio Representations for Audio-Visual Navigation" in CVPR Embodied AI Workshop 2022.
+Repository for ["Towards Generalisable Audio Representations for Audio-Visual Navigation"](TODO) in CVPR Embodied AI Workshop 2022.
 
 Code coming soon.
 
